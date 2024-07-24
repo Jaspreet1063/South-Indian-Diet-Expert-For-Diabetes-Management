@@ -1,6 +1,2 @@
-gradio
-huggingface_hub
-PyMuPDF
-sentence-transformers
-numpy
-faiss-cpu
+gradio==3.35.2
+PyMuPDF==1.22.5
